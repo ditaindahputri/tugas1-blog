@@ -1,0 +1,39 @@
+
+.utama {
+	padding: 20px;
+}
+
+.isimenu{
+	background-color: #ccc;
+}
+
+table, tr,td, th{
+	border : 1px solid;
+	text-align: center;
+	border-collapse: collapse;
+	padding:10px;
+
+}
+th{
+	background-color: #f04e3e;
+	color: #fff;
+	width: auto;
+}
+
+.edit {
+	
+	text-decoration: none;
+}
+
+.hapus {
+	color: #000;
+	margin-right: 10px;
+	
+	text-decoration: none;
+}
+
+.input{
+	border: 1px solid #000;
+padding: 4px;
+background-color: #f69e00;
+color: #000;

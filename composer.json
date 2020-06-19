@@ -1,0 +1,14 @@
+{
+    "name": "dita/blog",
+    "description": "sisfo blog",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "dita",
+            "email": "ditaindahpratamaputri@gmail.com"
+        }
+    ]
+}
